@@ -1,6 +1,6 @@
 ### Всем привет, я Альберт👋
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="[https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true](https://steamuserimages-a.akamaihd.net/ugc/1008189694569572669/026C4793B10390A29D34E6B2F8328579B8A1221D/)" width="500" height="320" />
 
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="250" height="160" />
