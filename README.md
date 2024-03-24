@@ -1,4 +1,4 @@
-### Hi there 👋
+### Всем привет, я Альберт👋
 
 <!--
 **albert-stepanyan/albert-stepanyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
