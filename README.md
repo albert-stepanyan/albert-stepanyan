@@ -42,6 +42,8 @@
   </tr>
 </table>
 
+<img align="centr" alt="GIF" src="https://github.com/albert-stepanyan/albert-stepanyan/blob/main/OyyC.gif?raw=true" width="850" height="200" />
+
 # Учебные проекты
 ## Data Science
 <table>
