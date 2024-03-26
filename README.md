@@ -16,7 +16,7 @@
 ---
 
 ### Резюме
-- Backend-разработчик (Python) [hh.ru](https://hh.ru/resume/3ddab569ff0cb808b70039ed1f643633677645) / 
+- Специалист по Data Science [hh.ru](https://hh.ru/resume/3ddab569ff0cb808b70039ed1f643633677645) / 
 <a href = "https://github.com/A-Kuklin/A-Kuklin/blob/main/cv.pdf">.pdf</a><br><br>
 [![Python](https://img.shields.io/badge/-Python-464646??style=flat-square&logo=Python)](https://www.python.org/)
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-464646??style=flat-square&logo=PostgreSQL)](https://www.postgresql.org/)
@@ -29,21 +29,15 @@
 ### Обучение
 <table>
   <tr>
-    <td>2022</td>
+    <td>2024</td>
     <td>Яндекс.Практикум</td>
-    <td>Data Science</td>
+    <td>Специалист по Data Science</td>
     <td>Сертификат <a href = "https://github.com/A-Kuklin/A-Kuklin/blob/main/data_science_ru.pdf">RUS</a> / <a href = "https://github.com/A-Kuklin/A-Kuklin/blob/main/data_science_en.pdf">EN</a></td>
   </tr>
   <tr>
-    <td>2021</td>
-    <td>Яндекс.Практикум</td>
-    <td>Backend</td>
-    <td>Сертификат <a href = "https://github.com/A-Kuklin/A-Kuklin/blob/main/backend_ru.pdf">RUS</a> / <a href = "https://github.com/A-Kuklin/A-Kuklin/blob/main/backend_en.pdf">EN</a></td>
-  </tr>
-  <tr>
-    <td>2012</td>
-    <td>Московский государственный университет леса (МГУЛ)</td>
-    <td>Инженер по специальности «Технология деревообработки»</td>
+    <td>2002</td>
+    <td>Московский государственный университет им. М.В. Ломоносова (МГУ)</td>
+    <td>Механика. Прикладная математика.</td>
     <td>Диплом</td>
   </tr>
 </table>
