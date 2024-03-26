@@ -5,6 +5,22 @@
 
 <img align="left" alt="GIF" src="https://steamuserimages-a.akamaihd.net/ugc/1008189694569572669/026C4793B10390A29D34E6B2F8328579B8A1221D/" width="400" height="200" />
 
+
+---
+
+### Содержание:
+[ •  Резюме](https://github.com/A-Kuklin#%D1%80%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5)<br>
+[ •  Опыт работы](https://github.com/A-Kuklin#%D0%BE%D0%BF%D1%8B%D1%82-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%8B)<br>
+[ •  Обучение](https://github.com/A-Kuklin#%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5)<br>
+[ •  Рабочие проекты](https://github.com/A-Kuklin#%D1%80%D0%B0%D0%B1%D0%BE%D1%87%D0%B8%D0%B5-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B)<br>
+[ •  Учебные проекты](https://github.com/A-Kuklin#%D1%83%D1%87%D0%B5%D0%B1%D0%BD%D1%8B%D0%B5-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B)<br>
+[    - Data Science](https://github.com/A-Kuklin#data-science)<br>
+[    - Backend](https://github.com/A-Kuklin#Backend)<br>
+
+
+
+
+
 ## Содержание
 - [Технологии](#технологии)
 - [Начало работы](#начало-работы)
