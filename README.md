@@ -5,7 +5,18 @@
 
 <img align="left" alt="GIF" src="https://steamuserimages-a.akamaihd.net/ugc/1008189694569572669/026C4793B10390A29D34E6B2F8328579B8A1221D/" width="400" height="200" />
 
+## Содержание
+- [Технологии](#технологии)
+- [Начало работы](#начало-работы)
+- [Тестирование](#тестирование)
+- [Deploy и CI/CD](#deploy-и-ci/cd)
+- [Contributing](#contributing)
+- [To do](#to-do)
+- [Команда проекта](#команда-проекта)
 
+## Технологии
+- [GatsbyJS](https://www.gatsbyjs.com/)
+- [TypeScript](https://www.typescriptlang.org/)
 
 ## Пример описания проектов в README.md
 
