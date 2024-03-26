@@ -49,7 +49,7 @@
 <table>
   
   <tr>
-    <td><a href = "https://github.com/A-Kuklin/data_preprocessing">Надёжность заёмщиков (предобработка данных)</a></td>
+    <td><a href = "https://github.com/albert-stepanyan/data_preprocessing">Надёжность заёмщиков (предобработка данных)</a></td>
     <td>Аналитика</td>
     <td>
       Заказчик — кредитный отдел банка.<br>
