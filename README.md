@@ -9,12 +9,9 @@
 
 ## Содержание:
 [ •  Резюме](https://github.com/albert-stepanyan#%D1%80%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5)<br>
-[ •  Опыт работы](https://github.com/A-Kuklin#%D0%BE%D0%BF%D1%8B%D1%82-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%8B)<br>
-[ •  Обучение](https://github.com/A-Kuklin#%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5)<br>
-[ •  Рабочие проекты](https://github.com/A-Kuklin#%D1%80%D0%B0%D0%B1%D0%BE%D1%87%D0%B8%D0%B5-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B)<br>
+[ •  Обучение](https://github.com/albert-stepanyan/albert-stepanyan/edit/main/README.md#%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5)<br>
 [ •  Учебные проекты](https://github.com/A-Kuklin#%D1%83%D1%87%D0%B5%D0%B1%D0%BD%D1%8B%D0%B5-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B)<br>
 [    - Data Science](https://github.com/A-Kuklin#data-science)<br>
-[    - Backend](https://github.com/A-Kuklin#Backend)<br>
 
 ---
 
@@ -29,28 +26,29 @@
 
 ---
 
+### Обучение
+<table>
+  <tr>
+    <td>2022</td>
+    <td>Яндекс.Практикум</td>
+    <td>Data Science</td>
+    <td>Сертификат <a href = "https://github.com/A-Kuklin/A-Kuklin/blob/main/data_science_ru.pdf">RUS</a> / <a href = "https://github.com/A-Kuklin/A-Kuklin/blob/main/data_science_en.pdf">EN</a></td>
+  </tr>
+  <tr>
+    <td>2021</td>
+    <td>Яндекс.Практикум</td>
+    <td>Backend</td>
+    <td>Сертификат <a href = "https://github.com/A-Kuklin/A-Kuklin/blob/main/backend_ru.pdf">RUS</a> / <a href = "https://github.com/A-Kuklin/A-Kuklin/blob/main/backend_en.pdf">EN</a></td>
+  </tr>
+  <tr>
+    <td>2012</td>
+    <td>Московский государственный университет леса (МГУЛ)</td>
+    <td>Инженер по специальности «Технология деревообработки»</td>
+    <td>Диплом</td>
+  </tr>
+</table>
 
-
-## Содержание
-- [Технологии](#технологии)
-- [Начало работы](#начало-работы)
-- [Тестирование](#тестирование)
-- [Deploy и CI/CD](#deploy-и-ci/cd)
-- [Contributing](#contributing)
-- [To do](#to-do)
-- [Команда проекта](#команда-проекта)
-
-## Технологии
-- [GatsbyJS](https://www.gatsbyjs.com/)
-- [TypeScript](https://www.typescriptlang.org/)
-
-## Пример описания проектов в README.md
-
-Данные проекты были выполнены в ходе обучения в Яндекс.Практикуме, профессии "Аналитик данных" / "Специалист по Data Science".
-
-| Название проекта | Описание | Используемые библиотеки | 
-| :---------------------- | :---------------------- | :---------------------- |
-| [Музыка больших городов]([big_cities_music]) | Сравнение предпочтений пользователей Яндекс.Музыки из Москвы и Санкт-Петербурга в зависимости от времени (утро и вечер) и дня недели (понедельник, среда, пятница)| *pandas* |
+---
 
 
 
