@@ -16,7 +16,21 @@
 [    - Data Science](https://github.com/A-Kuklin#data-science)<br>
 [    - Backend](https://github.com/A-Kuklin#Backend)<br>
 
+---
 
+### Резюме
+- Backend-разработчик (Python) [hh.ru](https://hh.ru/resume/3ddab569ff0cb808b70039ed1f643633677645) / 
+<a href = "https://github.com/A-Kuklin/A-Kuklin/blob/main/cv.pdf">.pdf</a><br><br>
+[![Python](https://img.shields.io/badge/-Python-464646??style=flat-square&logo=Python)](https://www.python.org/)
+[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-464646??style=flat-square&logo=PostgreSQL)](https://www.postgresql.org/)
+[![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-464646??style=flat-square&logo=RabbitMQ)](https://www.rabbitmq.com/)
+[![Docker](https://img.shields.io/badge/-Docker-464646??style=flat-square&logo=Docker)](https://www.docker.com/)
+[![Jupyter](https://img.shields.io/badge/-Jupyter-464646??style=flat-square&logo=Jupyter)](https://jupyter.org/)
+[![Pandas](https://img.shields.io/badge/-Pandas-464646??style=flat-square&logo=Pandas)](https://pandas.pydata.org/)
+[![GIT](https://img.shields.io/badge/-GIT-464646??style=flat-square&logo=GIT)](https://git-scm.com/)
+[![GraphQL](https://img.shields.io/badge/-GraphQL-464646??style=flat-square&logo=GraphQL)](https://graphql.org/)
+
+---
 
 
 
