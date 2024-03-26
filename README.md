@@ -1,4 +1,4 @@
-<img align="centr" alt="GIF" src="https://github.com/albert-stepanyan/albert-stepanyan/blob/main/%D0%92%D1%81%D0%B5%D0%BC-%D0%BF%D1%80%D0%B8%D0%B2%D0%B5%D1%82_%20(1).gif?raw=true" width="850" height="200" />
+<img align="centr" alt="GIF" src="https://github.com/albert-stepanyan/albert-stepanyan/blob/main/20240326-2005-55.7311498.gif?raw=true" width="850" height="200" />
 
 <img align="left" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="410" height="185" />
 
