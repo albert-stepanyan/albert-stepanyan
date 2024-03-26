@@ -13,7 +13,7 @@
 [ •  Учебные проекты](https://github.com/A-Kuklin#%D1%83%D1%87%D0%B5%D0%B1%D0%BD%D1%8B%D0%B5-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B)<br>
 [    - Data Science](https://github.com/A-Kuklin#data-science)<br>
 
----
+<img align="centr" alt="GIF" src="https://github.com/albert-stepanyan/albert-stepanyan/blob/main/OyyC.gif?raw=true" width="850" height="200" />
 
 ### Резюме
 - Специалист по Data Science [hh.ru](https://hh.ru/resume/3ddab569ff0cb808b70039ed1f643633677645) / 
@@ -24,7 +24,7 @@
 [![Pandas](https://img.shields.io/badge/-Pandas-464646??style=flat-square&logo=Pandas)](https://pandas.pydata.org/)
 [![GIT](https://img.shields.io/badge/-GIT-464646??style=flat-square&logo=GIT)](https://git-scm.com/)
 
----
+<img align="centr" alt="GIF" src="https://github.com/albert-stepanyan/albert-stepanyan/blob/main/OyyC.gif?raw=true" width="850" height="200" />
 
 ### Обучение
 <table>
