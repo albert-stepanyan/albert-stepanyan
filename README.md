@@ -30,7 +30,7 @@
 <table>
   <tr>
     <td>2024</td>
-    <td>Яндекс Практикум</td>
+    <td>Яндекс.Практикум</td>
     <td>Специалист по Data Science</td>
     <td>Сертификат <a href = "https://github.com/A-Kuklin/A-Kuklin/blob/main/data_science_ru.pdf">RUS</a> / <a href = "https://github.com/A-Kuklin/A-Kuklin/blob/main/data_science_en.pdf">EN</a></td>
   </tr>
@@ -45,6 +45,13 @@
 <img align="centr" alt="GIF" src="https://github.com/albert-stepanyan/albert-stepanyan/blob/main/OyyC.gif?raw=true" width="850" height="200" />
 
 # Учебные проекты
+Данные проекты были выполнены в ходе обучения в Яндекс.Практикуме, профессии "Специалист по Data Science".
+
+| Название проекта | Описание | Используемые библиотеки | 
+| :---------------------- | :---------------------- | :---------------------- |
+| [Музыка больших городов](big_cities_music) | Сравнение предпочтений пользователей Яндекс.Музыки из Москвы и Санкт-Петербурга в зависимости от времени (утро и вечер) и дня недели (понедельник, среда, пятница)| *pandas* |
+
+
 ## Data Science
 <table>
   
