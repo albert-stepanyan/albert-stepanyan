@@ -3,7 +3,7 @@
 <img align="left" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="200" />
 
 
-<img align="left" alt="GIF" src="https://steamuserimages-a.akamaihd.net/ugc/1008189694569572669/026C4793B10390A29D34E6B2F8328579B8A1221D/" width="400" height="200" />
+<img align="right" alt="GIF" src="https://steamuserimages-a.akamaihd.net/ugc/1008189694569572669/026C4793B10390A29D34E6B2F8328579B8A1221D/" width="400" height="200" />
 
 
 ---
