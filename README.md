@@ -30,7 +30,7 @@
 <table>
   <tr>
     <td>2024</td>
-    <td>Яндекс.Практикум</td>
+    <td>Яндекс Практикум</td>
     <td>Специалист по Data Science</td>
     <td>Сертификат <a href = "https://github.com/A-Kuklin/A-Kuklin/blob/main/data_science_ru.pdf">RUS</a> / <a href = "https://github.com/A-Kuklin/A-Kuklin/blob/main/data_science_en.pdf">EN</a></td>
   </tr>
