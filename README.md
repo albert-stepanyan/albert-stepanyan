@@ -46,11 +46,38 @@
 
 # Учебные проекты
 Данные проекты были выполнены в ходе обучения в Яндекс Практикуме по профессии "Специалист по Data Science".
+<table>
+    <tr>
+    <td>Название проекта </td>
+    <td>Описание </td>  
+    <td>Используемые библиотеки</td>
+  </tr>
+  <tr>
+    <td>[Исследование данных сервиса “Яндекс.Музыка” — сравнение пользователей двух городов](https://github.com/albert-stepanyan/big_cities_music) </td>
+    <td>Сравнение предпочтений пользователей Яндекс.Музыки из Москвы и Санкт-Петербурга в зависимости от времени (утро и вечер) и дня недели (понедельник, среда, пятница)</td>
+    <td>[[![Python](https://img.shields.io/badge/-Python-464646??style=flat-square&logo=Python)](https://www.python.org/)</td>
+  </tr>
+  <tr>
+    <td>2002</td>
+    <td>Московский государственный университет им. М.В. Ломоносова (МГУ)</td>
+    <td>Механика. Прикладная математика.</td>
+    <td>Диплом</td>
+  </tr>
+</table>
+
+
+
+
 
 | Название проекта | Описание | Используемые библиотеки | 
 | :---------------------- | :---------------------- | :---------------------- |
 | [Исследование данных сервиса “Яндекс.Музыка” — сравнение пользователей двух городов](https://github.com/albert-stepanyan/big_cities_music) | Сравнение предпочтений пользователей Яндекс.Музыки из Москвы и Санкт-Петербурга в зависимости от времени (утро и вечер) и дня недели (понедельник, среда, пятница)| [![Python](https://img.shields.io/badge/-Python-464646??style=flat-square&logo=Python)](https://www.python.org/)  [![Pandas](https://img.shields.io/badge/-Pandas-464646??style=flat-square&logo=Pandas)](https://pandas.pydata.org/)|
+| [Исследование надёжности заёмщиков — анализ банковских данных](https://github.com/albert-stepanyan/big_cities_music) | Сравнение предпочтений пользователей Яндекс.Музыки из Москвы и Санкт-Петербурга в зависимости от времени (утро и вечер) и дня недели (понедельник, среда, пятница)| [![Python](https://img.shields.io/badge/-Python-464646??style=flat-square&logo=Python)](https://www.python.org/)  [![Pandas](https://img.shields.io/badge/-Pandas-464646??style=flat-square&logo=Pandas)](https://pandas.pydata.org/)|
 
+
+
+
+Исследование надёжности заёмщиков — анализ банковских данных
 
 ## Data Science
 <table>
