@@ -30,7 +30,7 @@
 <table>
   <tr>
     <td>2024</td>
-    <td>Яндекс.Практикум</td>
+    <td>Яндекс Практикум</td>
     <td>Специалист по Data Science</td>
     <td>Сертификат <a href = "https://github.com/A-Kuklin/A-Kuklin/blob/main/data_science_ru.pdf">RUS</a> / <a href = "https://github.com/A-Kuklin/A-Kuklin/blob/main/data_science_en.pdf">EN</a></td>
   </tr>
@@ -49,7 +49,7 @@
 
 | Название проекта | Описание | Используемые библиотеки | 
 | :---------------------- | :---------------------- | :---------------------- |
-| [Музыка больших городов](https://github.com/albert-stepanyan/big_cities_music) | Сравнение предпочтений пользователей Яндекс.Музыки из Москвы и Санкт-Петербурга в зависимости от времени (утро и вечер) и дня недели (понедельник, среда, пятница)| *pandas* |
+| [Исследование данных сервиса “Яндекс.Музыка” — сравнение пользователей двух городов](https://github.com/albert-stepanyan/big_cities_music) | Сравнение предпочтений пользователей Яндекс.Музыки из Москвы и Санкт-Петербурга в зависимости от времени (утро и вечер) и дня недели (понедельник, среда, пятница)| [![Python](https://img.shields.io/badge/-Python-464646??style=flat-square&logo=Python)](https://www.python.org/)  [![Pandas](https://img.shields.io/badge/-Pandas-464646??style=flat-square&logo=Pandas)](https://pandas.pydata.org/)|
 
 
 ## Data Science
