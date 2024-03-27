@@ -50,11 +50,11 @@
 | :---------------------- | :---------------------- | :---------------------- |
 | [Исследование данных сервиса “Яндекс.Музыка” — сравнение пользователей двух городов](https://github.com/albert-stepanyan/big_cities_music) | Сравнение предпочтений пользователей Яндекс.Музыки из Москвы и Санкт-Петербурга в зависимости от времени (утро и вечер) и дня недели (понедельник, среда, пятница)| [![Python](https://img.shields.io/badge/-Python-464646??style=flat-square&logo=Python)](https://www.python.org/)  [![Pandas](https://img.shields.io/badge/-Pandas-464646??style=flat-square&logo=Pandas)](https://pandas.pydata.org/)|
 | [Исследование надёжности заёмщиков — анализ банковских данных](https://github.com/albert-stepanyan/data_preprocessing) | На основе статистики о платёжеспособности клиентов исследовать влияет ли семейное положение и количество детей клиента на факт возврата кредита в срок| [![Python](https://img.shields.io/badge/-Python-464646??style=flat-square&logo=Python)](https://www.python.org/)  [![Pandas](https://img.shields.io/badge/-Pandas-464646??style=flat-square&logo=Pandas)](https://pandas.pydata.org/)|
+| [Продажа квартир в Санкт-Петербурге — анализ рынка недвижимости](https://github.com/albert-stepanyan/data_preprocessing) | Продажа квартир в Санкт-Петербурге — анализ рынка недвижимости| [![Python](https://img.shields.io/badge/-Python-464646??style=flat-square&logo=Python)](https://www.python.org/)  [![Pandas](https://img.shields.io/badge/-Pandas-464646??style=flat-square&logo=Pandas)](https://pandas.pydata.org/)|
 
 
 
 
-Исследование надёжности заёмщиков — анализ банковских данных
 
 ## Data Science
 <table>
