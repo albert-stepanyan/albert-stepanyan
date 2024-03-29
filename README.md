@@ -34,6 +34,12 @@
     <td>Специалист по Data Science</td>
     <td>Сертификат <a href = "https://github.com/A-Kuklin/A-Kuklin/blob/main/data_science_ru.pdf">RUS</a> / <a href = "https://github.com/A-Kuklin/A-Kuklin/blob/main/data_science_en.pdf">EN</a></td>
   </tr>
+    <tr>
+    <td>2014</td>
+    <td>Бауманский учебный центр "Специалист"</td>
+    <td>Курсы AutoCAD</td>
+    <td>Диплом</td>
+  </tr>
   <tr>
     <td>2002</td>
     <td>Московский государственный университет им. М.В. Ломоносова (МГУ)</td>
