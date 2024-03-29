@@ -44,7 +44,7 @@
     <td>2002</td>
     <td>Московский государственный университет им. М.В. Ломоносова (МГУ)</td>
     <td>Механика. Прикладная математика.</td>
-    <td> <a href = "https://github.com/albert-stepanyan/albert-stepanyan/blob/main/%D0%A1%D1%82%D0%B5%D0%BF%D0%B0%D0%BD%D1%8F%D0%BD%20%D0%90%D0%BB%D1%8C%D0%B1%D0%B5%D1%80%D1%82%20%D0%92%D0%BE%D0%BB%D0%BE%D0%B4%D1%8C%D0%B5%D0%B2%D0%B8%D1%87_20242DS00141.pdf">Диплом</a></td>
+    <td> <a href = "https://github.com/albert-stepanyan/albert-stepanyan/blob/main/%D0%94%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC%20%D0%9C%D0%93%D0%A3.jpg">Диплом</a></td>
   </tr>
 </table>
 
