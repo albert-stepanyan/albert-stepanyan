@@ -46,6 +46,8 @@
 
 # Учебные проекты
 
+[Проект_1](https://raw.githack.com/albert-stepanyan/big_cities_music/main/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%E2%84%961.html)
+
 | Название проекта | Описание проекта | Навыки и инструменты | 
 | :---------------------- | :---------------------- | :---------------------- |
 | [Исследование данных сервиса “Яндекс.Музыка” — сравнение пользователей двух городов](https://github.com/albert-stepanyan/big_cities_music) | На реальных данных Яндекс.Музыки c помощью библиотеки Pandas и её возможностей проверить данные и сравнить поведение и предпочтения пользователей двух столиц — Москвы и Санкт-Петербурга.| [![Python](https://img.shields.io/badge/-Python-464646??style=flat-square&logo=Python)](https://www.python.org/)  [![Pandas](https://img.shields.io/badge/-Pandas-464646??style=flat-square&logo=Pandas)](https://pandas.pydata.org/)|
