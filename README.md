@@ -48,9 +48,6 @@
   </tr>
 </table>
 
-https://github.com/albert-stepanyan/albert-stepanyan/blob/main/%D0%94%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC%20%D0%9C%D0%93%D0%A3.jpg
-
-
 <img align="centr" alt="GIF" src="https://github.com/albert-stepanyan/albert-stepanyan/blob/main/OyyC.gif?raw=true" width="850" height="200" />
 
 # Учебные проекты
