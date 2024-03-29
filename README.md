@@ -32,7 +32,7 @@
     <td>2024</td>
     <td>Яндекс Практикум</td>
     <td>Специалист по Data Science</td>
-    <td>Сертификат <a href = "https://github.com/A-Kuklin/A-Kuklin/blob/main/data_science_ru.pdf">RUS</a> / <a href = "https://github.com/A-Kuklin/A-Kuklin/blob/main/data_science_en.pdf">EN</a></td>
+    <td>Сертификат <a href = "https://github.com/albert-stepanyan/albert-stepanyan/blob/main/%D0%A1%D1%82%D0%B5%D0%BF%D0%B0%D0%BD%D1%8F%D0%BD%20%D0%90%D0%BB%D1%8C%D0%B1%D0%B5%D1%80%D1%82%20%D0%92%D0%BE%D0%BB%D0%BE%D0%B4%D1%8C%D0%B5%D0%B2%D0%B8%D1%87_20242DS00141.pdf">RUS</a> / <a href = "https://github.com/A-Kuklin/A-Kuklin/blob/main/data_science_en.pdf">EN</a></td>
   </tr>
     <tr>
     <td>2014</td>
