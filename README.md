@@ -16,7 +16,7 @@
 
 # Резюме
 - Специалист по Data Science [hh.ru](https://hh.ru/resume/3ddab569ff0cb808b70039ed1f643633677645) / 
-<a href = "">pdf</a><br><br>
+<a href = "https://github.com/albert-stepanyan/albert-stepanyan/blob/main/%D0%A0%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5%20%D1%81%D0%BF%D0%B5%D1%86%D0%B8%D0%B0%D0%BB%D0%B8%D1%81%D1%82%20Data%20Science%20%D0%90%D0%BB%D1%8C%D0%B1%D0%B5%D1%80%D1%82%20%D0%A1%D1%82%D0%B5%D0%BF%D0%B0%D0%BD%D1%8F%D0%BD%20%D0%BE%D1%82%2001-04-2024%2009-20.pdf">pdf</a><br><br>
 [![Python](https://img.shields.io/badge/-Python-464646??style=flat-square&logo=Python)](https://www.python.org/)
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-464646??style=flat-square&logo=PostgreSQL)](https://www.postgresql.org/)
 [![Jupyter](https://img.shields.io/badge/-Jupyter-464646??style=flat-square&logo=Jupyter)](https://jupyter.org/)
