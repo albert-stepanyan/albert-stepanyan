@@ -6,7 +6,9 @@
 
 <img align="centr" alt="GIF" src="https://github.com/albert-stepanyan/albert-stepanyan/blob/main/OyyC.gif?raw=true" width="850" height="200" />
 
-
+Использование CSS: 
+||font-size:120%;background-color:yellow|
+большой текст на желтом фоне||
 # Содержание
 [ •  Резюме](https://github.com/albert-stepanyan#%D1%80%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5)<br>
 [ •  Обучение](https://github.com/albert-stepanyan#%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5)<br>
