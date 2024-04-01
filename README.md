@@ -16,7 +16,7 @@
 
 # Резюме
 - Специалист по Data Science [hh.ru](https://hh.ru/resume/3ddab569ff0cb808b70039ed1f643633677645) / 
-<a href = "https://github.com/A-Kuklin/A-Kuklin/blob/main/cv.pdf">.pdf</a><br><br>
+<a href = "">.pdf</a><br><br>
 [![Python](https://img.shields.io/badge/-Python-464646??style=flat-square&logo=Python)](https://www.python.org/)
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-464646??style=flat-square&logo=PostgreSQL)](https://www.postgresql.org/)
 [![Jupyter](https://img.shields.io/badge/-Jupyter-464646??style=flat-square&logo=Jupyter)](https://jupyter.org/)
