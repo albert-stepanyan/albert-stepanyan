@@ -82,6 +82,8 @@
 
 Распознавание шрифтов
 
+https://github.com/albert-stepanyan/albert-stepanyan/blob/main/%D0%A0%D0%B0%D1%81%D0%BF%D0%BE%D0%B7%D0%BD%D0%B0%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%88%D1%80%D0%B8%D1%84%D1%82%D0%BE%D0%B2.gif
+
 https://github.com/albert-stepanyan/albert-stepanyan/assets/158582989/130575d3-d421-40ff-9b6b-d1102fc3b230
 
 
