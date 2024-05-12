@@ -82,6 +82,7 @@
 
 Распознавание шрифтов
 
+[![Kvant](https://github.com/albert-stepanyan/albert-stepanyan/assets/158582989/130575d3-d421-40ff-9b6b-d1102fc3b230)](Распознавание шрифтов) 
 
 https://github.com/albert-stepanyan/albert-stepanyan/assets/158582989/130575d3-d421-40ff-9b6b-d1102fc3b230
 
