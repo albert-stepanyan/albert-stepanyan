@@ -86,5 +86,7 @@ https://github.com/albert-stepanyan/albert-stepanyan/blob/main/%D0%A0%D0%B0%D1%8
 
 ![Распознавание шрифтов](https://github.com/albert-stepanyan/albert-stepanyan/assets/158582989/cbd015c8-7e2b-4f86-9bef-a747977bd1b1)
 
+Распознавание шрифтов
+
 https://github.com/albert-stepanyan/albert-stepanyan/assets/158582989/cbd015c8-7e2b-4f86-9bef-a747977bd1b1
 
