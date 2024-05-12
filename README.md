@@ -81,6 +81,7 @@
 | [![Kvant-NII](https://github.com/albert-stepanyan/albert-stepanyan/assets/158582989/a2b0e7ca-3449-46f8-b7ea-e140fbcecbc5)](https://rdi-kvant.ru/pages/main/main.html) | [Распознавание шрифтов.](https://github.com/albert-stepanyan/kvant_1) |Задача - распознавание шрифтов. Цель - создание утилиты, которая принимает на вход изображение с текстом и распознает шрифт текста.| <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/> <img alt="Keras" src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white"/>|
 
 Распознавание шрифтов
+
 https://github.com/albert-stepanyan/albert-stepanyan/assets/158582989/130575d3-d421-40ff-9b6b-d1102fc3b230
 
 
