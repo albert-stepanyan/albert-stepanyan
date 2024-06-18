@@ -63,6 +63,7 @@
 | :---------------------- | :---------------------- | :---------------------- | :---------------------- |
 | [Распознавание штампа прописки в паспорте.](https://github.com/albert-stepanyan/registration_recognition) |Дана фотография или скан разворота паспорта с пропиской. Необходимо вернуть изображение последнего штампа с регистрацией. Изображение должно быть пригодно для дальнейшего распознавания текста, в частности, строки должны быть выпрямлены.| <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/> <img alt="Keras" src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white"/>| |
 
+<img align="centr" alt="GIF" src="https://github.com/albert-stepanyan/albert-stepanyan/blob/main/OyyC.gif?raw=true" width="850" height="200" />
 
 # Учебные проекты
 
@@ -88,17 +89,3 @@
 | Название проекта | Описание проекта | Навыки и инструменты | HTML |
 | :---------------------- | :---------------------- | :---------------------- | :---------------------- |
 | [Оценка износа футеровок металургического ковша посредством контроля датчиками внешней температуры обшивки.](https://github.com/albert-stepanyan/work) |На металлургическом предприятии используются ёмкости для жидкого металла, футерованные огнеупорным кирпичом. Со временем футеровка изнашивается, её приходится менять на новую. Для целей контроля температуры технологи установили под днищем каждой ёмкости по 20 датчиков, в настоящий момент они смотрят на абсолютную температуру каждого из них – она не должна превышать 200 градусов.| <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/> <img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />| [Проект Росатом](https://raw.githack.com/albert-stepanyan/work/main/%D0%A0%D0%BE%D1%81%D0%B0%D1%82%D0%BE%D0%BC.html) |
-
-# Проектная работа
-
-| Название проекта | Описание проекта | Навыки и инструменты | HTML |
-| :---------------------- | :---------------------- | :---------------------- | :---------------------- |
-| [Распознавание шрифтов.](https://github.com/albert-stepanyan/font_recognition) |Задача - распознавание шрифтов. Цель - создание утилиты, которая принимает на вход изображение с текстом и распознает шрифт текста.| <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/> <img alt="Keras" src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white"/>| [Часть 1](https://raw.githack.com/albert-stepanyan/font_recognition/main/font_recognition_1.html) [Часть 2](https://raw.githack.com/albert-stepanyan/font_recognition/main/font_recognition_2.html) [Часть 3](https://raw.githack.com/albert-stepanyan/font_recognition/main/font_recognition_3.html) |
-
-<img align="centr" alt="GIF" src="https://github.com/albert-stepanyan/albert-stepanyan/blob/main/%D0%A0%D0%B0%D1%81%D0%BF%D0%BE%D0%B7%D0%BD%D0%B0%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%88%D1%80%D0%B8%D1%84%D1%82%D0%BE%D0%B2.gif?raw=true" width="850" height="500" />
-
-# Проектная работа
-
-| Название проекта | Описание проекта | Навыки и инструменты | HTML |
-| :---------------------- | :---------------------- | :---------------------- | :---------------------- |
-| [Распознавание штампа прописки в паспорте.](https://github.com/albert-stepanyan/registration_recognition) |Дана фотография или скан разворота паспорта с пропиской. Необходимо вернуть изображение последнего штампа с регистрацией. Изображение должно быть пригодно для дальнейшего распознавания текста, в частности, строки должны быть выпрямлены.| <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/> <img alt="Keras" src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white"/>| |
