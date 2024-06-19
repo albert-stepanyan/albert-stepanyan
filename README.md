@@ -63,7 +63,7 @@
 | :---------------------- | :---------------------- | :---------------------- | :---------------------- |
 | [Распознавание штампа прописки в паспорте.](https://github.com/albert-stepanyan/registration_recognition) |Дана фотография или скан разворота паспорта с пропиской. Необходимо вернуть изображение последнего штампа с регистрацией. Изображение должно быть пригодно для дальнейшего распознавания текста, в частности, строки должны быть выпрямлены.| <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/> <img alt="Keras" src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white"/>| [Часть 1](https://raw.githack.com/albert-stepanyan/registration_recognition/main/registration_recognition_1.html?token=GHSAT0AAAAAACRICA5R36TWN26XTAQF56VUZTRZ6YA) [Часть 2](https://raw.githack.com/albert-stepanyan/registration_recognition/main/registration_recognition_2.html?token=GHSAT0AAAAAACRICA5Q2656SJHHXMGQBOKUZTR2A6Q) [Часть 3](https://raw.githack.com/albert-stepanyan/registration_recognition/main/registration_recognition_3.html?token=GHSAT0AAAAAACRICA5QFERJVE4EQQCT5BDWZTR2CGQ) |
 
-<img align="centr" alt="GIF" src="https://github.com/albert-stepanyan/albert-stepanyan/blob/main/gif_registration_recognition.gif?raw=true" width="850" height="500" />
+<img align="centr" alt="GIF" src="" width="850" height="500" />
 
 # Учебные проекты
 
